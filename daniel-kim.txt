@@ -1,0 +1,2 @@
+// Hello!
+// Words included in this txt file for project.
